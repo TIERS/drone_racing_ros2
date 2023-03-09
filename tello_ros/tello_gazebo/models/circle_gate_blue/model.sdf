@@ -23,7 +23,7 @@
         <pose>0 0 0 0 -0 0</pose>
         <geometry>
           <mesh>
-            <uri>model://circle_gate/circle_gate.dae</uri>
+            <uri>model://circle_gate_blue/circle_gate.dae</uri>
             <scale>1 1 1</scale>
           </mesh>
         </geometry>
@@ -50,7 +50,7 @@
         <pose>0 0 0 0 -0 0</pose>
         <geometry>
           <mesh>
-            <uri>model://circle_gate/circle_gate.dae</uri>
+            <uri>model://circle_gate_blue/circle_gate.dae</uri>
             <scale>1 1 1</scale>
           </mesh>
         </geometry>
