@@ -130,7 +130,7 @@
       </link>
       <pose>0.114239 -0.085505 0 0 -0 0</pose>
     </model>
-    <model name='square_gate'>
+    <model name='square_gate_green'>
       <link name='link_0'>
         <inertial>
           <mass>1</mass>
@@ -153,7 +153,7 @@
           <pose>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>model://square_gate/square_gate.dae</uri>
+              <uri>model://square_gate_green/square_gate.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -180,7 +180,7 @@
           <pose>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>model://square_gate/square_gate.dae</uri>
+              <uri>model://square_gate_green/square_gate.dae</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -437,7 +437,7 @@
           <wrench>0 0 0 0 -0 0</wrench>
         </link>
       </model>
-      <model name='square_gate'>
+      <model name='square_gate_green'>
         <pose>0.006892 3.81843 0.05 0 -0 0.000399</pose>
         <scale>1 1 1</scale>
         <link name='link_0'>
