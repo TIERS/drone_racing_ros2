@@ -1,6 +1,6 @@
 <?xml version='1.0'?>
 <sdf version='1.7'>
-  <model name='square_gate'>
+  <model name='square_gate_green'>
     <link name='link_0'>
       <inertial>
         <mass>1</mass>
